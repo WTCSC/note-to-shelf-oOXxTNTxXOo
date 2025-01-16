@@ -1,6 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/x_3ULh4W)
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=17704176)
 # Note to Shelf
+    note to self is a tool that is supposed to act as a tool that you can use to take notes on the fly by simply calling the file and stating whether or not you want to add, break, list, or search your notes. this tool is entirely written in shell script. as of now the limitations of my tool is that it dosent work entirely and when calling the tool you must use the format [note.sh "add, bra, list, search" "file name"]. when using this tool keep in mind that when listing files you are able to see the creation date of the file however for now the creation date is set within the file so it can be deleted very easily. Finally files with this tool can be named with special characters EX: "@(*#*(&#)).txt" could be a file of yours. 
+
 
 <!--
 
